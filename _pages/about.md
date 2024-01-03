@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I'm <a href="http://tinyurl.com/skachrooResume" style="text-decoration: none"> Shubham Kachroo </a>, a graduate student at <a href="https://www.cmu.edu/ini" style="text-decoration: none"> Carnegie Mellon University </a> pursuing my M.S. in Mobile and IoT Engineering with Machine Learning (Computer Science). At CMU, I have taken the below coursework to help me gain in-depth knowledge on the computer science fundamental concepts. <br/>
+I'm <a href="http://tinyurl.com/skachrooResume" style="text-decoration: none"> Shubham Kachroo</a>, a graduate student at <a href="https://www.cmu.edu/ini" style="text-decoration: none"> Carnegie Mellon University</a> pursuing my M.S. in Mobile and IoT Engineering with Machine Learning (Computer Science). At CMU, I have taken the coursework below to help me gain in-depth knowledge of fundamental concepts in computer science. <br/>
 • Coursework: Data Structures and Algorithms, Cloud Computing Infrastructure & Services, Search Engines, Machine Learning in Software and Adversarial Systems, Generative AI and LLMs, Computer Networking, Business Management, Information Security, Database System, Deep Learning, Mobile and Web Application Development, Object Oriented System Design and Programming, Principles of Software Engineering, Design Patterns.
 </p>
 
