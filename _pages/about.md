@@ -19,7 +19,7 @@ I am a driven software developer with many years of academic and professional ex
 <p align="justify">
 My internships, work experience, open-source contributions, and academic projects have honed my technical skills. <br/>
 • Programming Languages: Java, C/C++, Python, Kotlin, HTML/CSS, Javascript/Typescript <br/>
-• Technologies/Frameworks/Libraries: Git, Docker, Kubernetes, Terraform, REST/GraphQL/gRPC APIs, PyTorch, TensorFlow, Numpy, Pandas, Matplotlib, NodeJS, Flask, JSON, GCP (GKE, Dataproc, BigTable), AWS (EC2, S3, IAM, SQS), Hadoop, Spark, SQL (MySQL, SQLite), NoSQL (FirebaseDB, MongoDB), Jenkins, Gradle, JUnit, Mockito
+• Technologies/Frameworks/Libraries: Git, Docker, Kubernetes, Terraform, PyTorch, TensorFlow, Numpy, Pandas, Matplotlib, REST/GraphQL/gRPC APIs, NodeJS, Flask, JSON, GCP (GKE, Dataproc, BigTable), AWS (EC2, S3, IAM, SQS), Hadoop, Spark, SQL (MySQL, SQLite), NoSQL (FirebaseDB, MongoDB), Jenkins, Gradle, JUnit, Mockito
 </p>
 
 <p align="justify">
