@@ -29,5 +29,9 @@ My internships, work experience, open-source contributions, and academic project
 </p>
 
 <p align="justify">
-I'm actively seeking full-time opportunities starting May 2025, focusing on software engineering, mobile application, cloud infrastructure, back-end development, or machine learning-based roles. <br/> Feel free to drop a message! <i class="fa fa-envelope" aria-hidden="true"></i>
+I'm actively seeking full-time opportunities starting May 2025, focusing on software engineering, mobile application, cloud infrastructure, back-end development, or machine learning-based roles.
+</p>
+
+<p align="justify">
+Feel free to drop a message! <i class="fa fa-envelope" aria-hidden="true"></i>
 </p>
