@@ -13,7 +13,7 @@ I'm <a href="http://tinyurl.com/skachrooResume" style="text-decoration: none"> S
 
 <p align="justify">
 At CMU, I have taken the coursework below to help me gain in-depth knowledge of fundamental concepts in computer science. <br/>
-• <b>Coursework:</b> Data Structures and Algorithms, Deep Learning, Cloud Computing Infrastructure & Services, Search Engines, Distributed Systems, Machine Learning in Software and Adversarial Systems, Generative AI and LLMs, Computer Networking, Business Management, Information Security, Database Systems, Mobile and Web Application Development, Object Oriented System Design and Programming, Principles of Software Engineering, Design Patterns.
+- <b>Coursework:</b> Data Structures and Algorithms, Deep Learning, Cloud Computing Infrastructure & Services, Search Engines, Distributed Systems, Machine Learning in Software and Adversarial Systems, Generative AI and LLMs, Computer Networking, Business Management, Information Security, Database Systems, Mobile and Web Application Development, Object Oriented System Design and Programming, Principles of Software Engineering, Design Patterns.
 </p>
 
 <p align="justify">
@@ -24,8 +24,8 @@ During my tenure at Vymo Asia, I owned multiple features in a high-throughput pr
 
 <p align="justify">
 My internships, work experience, open-source contributions, and academic projects have honed my technical skills. <br/>
-• <b>Programming Languages:</b> Python, Java, Javascript, C++, Kotlin, HTML, CSS, SQL, Bash, Go <br/>
-• <b>Technologies/Frameworks/Libraries:</b> Git, PyTorch, Tensorflow, NumPy, Docker, Kubernetes, Terraform, Kafka, AWS, GCP, Electronjs, Angular, MySQL, SQLite, FirebaseDB, MongoDB, Nodejs, Flask, Hadoop, Spark, Redis, Airflow, Agile, JUnit, Mockito, REST/GraphQL/gRPC APIs, Jenkins, Gradle
+- <b>Programming Languages:</b> Python, Java, Javascript, C++, Kotlin, HTML, CSS, SQL, Bash, Go <br/>
+- <b>Technologies/Frameworks/Libraries:</b> Git, PyTorch, Tensorflow, NumPy, Docker, Kubernetes, Terraform, Kafka, AWS, GCP, Electronjs, Angular, MySQL, SQLite, FirebaseDB, MongoDB, Nodejs, Flask, Hadoop, Spark, Redis, Airflow, Agile, JUnit, Mockito, REST/GraphQL/gRPC APIs, Jenkins, Gradle
 </p>
 
 <p align="justify">
