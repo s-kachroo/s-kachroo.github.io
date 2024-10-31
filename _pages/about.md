@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I'm <a href="http://tinyurl.com/skachrooResume" style="text-decoration: none"> Shubham Kachroo</a>, a graduate student at <a href="https://www.cmu.edu/ini" style="text-decoration: none"> Carnegie Mellon University</a> pursuing my M.S. in Mobile and IoT Engineering with Machine Learning (Computer Science). With a solid foundation in software development, cloud infrastructure, and machine learning, I’ve developed a diverse skill set that spans mobile application development, backend engineering, and AI-driven solutions.
+I'm <a href="http://tinyurl.com/skachrooResume" style="text-decoration: none"> Shubham Kachroo</a>, a graduate student at <a href="https://www.cmu.edu/ini" style="text-decoration: none"> Carnegie Mellon University</a> pursuing my M.S. in Computer Science (Mobile and Machine Learning Systems). With a solid foundation in software development, cloud infrastructure, and machine learning, I’ve developed a diverse skill set that spans mobile application development, backend engineering, and AI-driven solutions.
 </p>
 
 <p align="justify">
@@ -17,9 +17,9 @@ At CMU, I have taken the coursework below to help me gain in-depth knowledge of 
 </p>
 
 <p align="justify">
-In my recent role as a Practicum Student Technical Lead at Volkswagen Group of America, I led the development of a scalable Digital Twin IDE, optimizing real-time data integration and reducing development time by 27%. Previously, as a Software Engineer Intern at The New York Times, I contributed to a native advertisement library, impacting 2M+ daily users and driving $104M+ in projected revenue.
+In my recent role as a Practicum Technical Lead Intern at Volkswagen Group of America, I led the development of a scalable Digital Twin IDE, optimizing real-time data integration and reducing development time by 27%. Previously, as a Software Engineer Intern at The New York Times, I developed the native advertisement library for their Android and iOS platform, impacting 2M+ daily users and driving $104M+ in projected revenue.
 
-During my tenure at Vymo Asia, I owned multiple features in a high-throughput production system used by 1M+ users, with responsibilities ranging from frontend and backend development to production deployments. I also tackled critical security vulnerabilities and contributed to a significant refactoring project, optimizing the system’s performance by 25%.
+During my tenure at Vymo Asia, I owned multiple frontend and backend features in a high-throughput production system used by 1M+ users, with responsibilities ranging from frontend and backend development to production deployments. I also tackled critical security vulnerabilities and contributed to a significant refactoring project, optimizing the system’s performance by 25%.
 </p>
 
 <p align="justify">
@@ -29,7 +29,7 @@ My internships, work experience, open-source contributions, and academic project
 </p>
 
 <p align="justify">
-I'm actively seeking full-time opportunities starting May 2025, focusing on software engineering, mobile application, cloud infrastructure, back-end development, or machine learning-based roles.
+I'm actively seeking full-time opportunities starting May 2025, focusing on software engineering, mobile application, machine learning, cloud infrastructure, or back-end development.
 </p>
 
 <p align="justify">
