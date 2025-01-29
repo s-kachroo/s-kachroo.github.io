@@ -13,19 +13,19 @@ I'm <a href="http://tinyurl.com/skachrooResume" style="text-decoration: none"> S
 
 <p align="justify">
 At CMU, I have taken the coursework below to help me gain in-depth knowledge of fundamental concepts in computer science. <br/>
-- <b>Coursework:</b> Data Structures and Algorithms, Deep Learning, Cloud Computing Infrastructure & Services, Search Engines, Distributed Systems, Machine Learning in Software and Adversarial Systems, Generative AI and LLMs, Computer Networking, Business Management, Information Security, Database Systems, Mobile and Web Application Development, Object Oriented System Design and Programming, Principles of Software Engineering, Design Patterns.
+- <b>Coursework:</b> Data Structures and Algorithms, Deep Learning, Cloud Computing, Search Engines, Distributed Systems, Database Systems, Parallel Programming, Probability & Statistics, Computer Systems, Prompt Engineering, Generative AI and LLMs, Computer Networks, Business Management, Information Security, Mobile and Web Application Development, Object Oriented System Design and Programming, Principles of Software Engineering, Design Patterns.
 </p>
 
 <p align="justify">
-In my recent role as a Practicum Technical Lead Intern at Volkswagen Group of America, I led the development of a scalable Digital Twin IDE, optimizing real-time data integration and reducing development time by 27%. Previously, as a Software Engineer Intern at The New York Times, I developed the native advertisement library for their Android and iOS platform, impacting 2M+ daily users and driving $104M+ in projected revenue.
+In my recent role as a Practicum Technical Lead Intern at Volkswagen Group of America, I led the development of a scalable Digital Twin IDE, optimizing real-time data integration and reducing development time by 27%. Previously, as a Software Engineer Intern at The New York Times, I developed the native advertisement library for their Android and iOS platforms, impacting 2M+ daily users and driving $104M+ in projected revenue.
 
-During my tenure at Vymo Asia, I owned multiple frontend and backend features in a high-throughput production system used by 1M+ users, with responsibilities ranging from frontend and backend development to production deployments. I also tackled critical security vulnerabilities and contributed to a significant refactoring project, optimizing the system’s performance by 25%.
+During my tenure at Vymo Asia, I owned multiple frontend and backend features in a high-throughput production system used by 1M+ users. My responsibilities ranged from frontend and backend development to production deployments. I also tackled critical security vulnerabilities and contributed to a significant refactoring project, optimizing the system’s performance by 25%.
 </p>
 
 <p align="justify">
 My internships, work experience, open-source contributions, and academic projects have honed my technical skills. <br/>
-- <b>Programming Languages:</b> Python, Java, Javascript, C++, Kotlin, HTML, CSS, SQL, Bash, Go <br/>
-- <b>Technologies/Frameworks/Libraries:</b> Git, PyTorch, Tensorflow, NumPy, Docker, Kubernetes, Terraform, Kafka, AWS, GCP, Electronjs, Angular, MySQL, SQLite, FirebaseDB, MongoDB, Nodejs, Flask, Hadoop, Spark, Redis, Airflow, Agile, JUnit, Mockito, REST/GraphQL/gRPC APIs, Jenkins, Gradle
+- <b>Programming Languages:</b> Python, Java, Javascript, Typescript, C++, Kotlin, HTML, CSS, SQL, Bash, Go, Swift, Ruby <br/>
+- <b>Technologies/Frameworks/Libraries:</b> Git, PyTorch, Tensorflow, NumPy, Docker, Kubernetes, Terraform, Kafka, AWS, GCP, REST/GraphQL/gRPC APIs, Electron.js, Angular, React.js, MySQL, SQLite, FirebaseDB, MongoDB, PostgreSQL, Node.js, Flask, Hadoop, Spark, LangChain, Redis, SpringBoot, Agile, CI/CD, Jenkins, Gradle, Airflow, TDD, JUnit, Mockito
 </p>
 
 <p align="justify">
